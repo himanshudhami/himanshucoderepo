@@ -4,3 +4,7 @@ export LANG=en_US.UTF-8
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 source ~/.bashrc
+
+
+
+https://blog.shvetsov.com/2014/11/homebrew-cheat-sheet-and-workflow.html
